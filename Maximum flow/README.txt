@@ -1,0 +1,1 @@
+I have not used any libraries. Used IDLE is intelliJ idea Ultimate. (All the instructions to run the program is given inside the terminal when the program starts to run) UnZip the file and open it from intelliJ idea Ultimate as a Existing Project.
